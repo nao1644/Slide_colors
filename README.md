@@ -1,2 +1,2 @@
 # Slide_colors
-過去に使用したスライドやポスターの色やフォント等の情報を記録します。
+Record information such as the colors and fonts used in previous slides and posters.
