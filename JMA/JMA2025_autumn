@@ -1,0 +1,32 @@
+#############################
+# Example
+# place : R, G, B
+#############################
+# Character
+# nomal : 0, 0, 0
+# highlight : 230, 0, 18
+# title : 233, 93, 25
+# subtitle : 233, 93, 25
+# font :
+# tsukushi A maru Gothic
+# Cambria Math
+#############################
+# Main
+# back : 210, 215, 218
+#############################
+# Box 
+# edgecolor : 142, 168, 0
+# facecolor : 255, 255, 255
+#############################
+# Table 
+# edgecolor : 0, 0, 0
+# facecolor 1 : 210, 215, 218
+# facecolor 2 : 255, 255, 255
+#############################
+# Arrow
+# edgecolor : 230, 0, 18
+# facecolor : 236, 134, 50
+#############################
+# Reference : EXPO 2025 Design System Ver.1.0
+# https://www.expo2025.or.jp/overview/design_system/
+#############################
