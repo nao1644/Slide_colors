@@ -1,0 +1,34 @@
+#############################
+# Example
+# place : R, G, B
+#############################
+# Character
+# nomal : 0, 0, 0
+# highlight : 190, 20, 82
+# title : 0, 0, 0
+# subtitle : 0, 162, 148
+# font :
+# "Helvetica Neue light" for main
+# "tsukushi A maru Gothic" for title and subtitles
+# "Cambria Math" for formulas
+#############################
+# Main
+# back : 126, 200, 119
+# header : 24, 170, 119
+#############################
+# Box 
+# edgecolor : 0, 46, 67
+# facecolor : 255, 255, 255
+#############################
+# highlight Box 
+# edgecolor : 190, 20, 82
+# facecolor : 255, 255, 255
+#############################
+# small Box
+# edgecolor : 0, 89, 157
+# facecolor : 255, 255, 255
+#############################
+# Arrow
+# edgecolor : 190, 20, 82
+# facecolor : 190, 20, 82
+#############################
